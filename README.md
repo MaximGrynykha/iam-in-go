@@ -1,6 +1,6 @@
 # Введение
 [![Введение в язык программирования Go](https://img.youtube.com/vi_webp/1V5GAYoaKRE/maxresdefault.webp "Введение в язык программирования Go")](https://www.youtube.com/watch?v=UfeZ-bPFs10&t)
-> [YouTube: Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) © > Лектор: Марат Хабибуллин © Computer Science Center
+> [YouTube: Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) © Лектор: Марат Хабибуллин © Computer Science Center
 
 # Безопасность
 [![Безопасность в Golang](https://img.youtube.com/vi_webp/UfeZ-bPFs10/maxresdefault.webp "Безопасность в Golang")](https://www.youtube.com/watch?v=UfeZ-bPFs10&t)

@@ -15,7 +15,7 @@
 ## Books
 | [System Design Interview – An insider's guide: Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) | [System Design Interview – An Insider's Guide: Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119) |
 | :------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| [![System Design Interview – An insider's guide: Volume 1](https://raw.githubusercontent.com/maximgrynykha/im-in-go/master/book-covers/System-Design-Interview_1.jpg "System Design Interview")](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) | [![System Design Interview – An insider's guide: Volume 2](https://raw.githubusercontent.com/maximgrynykha/im-in-go/master/book-covers/System-Design-Interview_2.jpg "System Design Interview")](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)
+| [![System Design Interview – An insider's guide: Volume 1](https://raw.githubusercontent.com/maximgrynykha/iam-in-go/main/book-covers/System-Design-Interview_1.jpg "System Design Interview")](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) | [![System Design Interview – An insider's guide: Volume 2](https://raw.githubusercontent.com/maximgrynykha/iam-in-go/main/book-covers/System-Design-Interview_2.jpg "System Design Interview")](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)
 
 > Authors: Alex Xu, Sahn Lam
 
